@@ -1,0 +1,26 @@
+site_name: "Job Schedule"
+theme:
+  name: material
+  language: pt
+  logo: images/calendario.svg
+  favicon: images/calendario.svg
+  features:
+    - navigation.instant
+  palette:
+    primary: purple
+    accent: purple
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Início: index.md
+  - Ambiete de desenvolvimento: ambiente.md
+  - Algoritmo do jogo: code.md
+  - Questões da lista:
+      - Questão 5: questoes/quest5.md
+      - Questão 7: questoes/quest7.md
