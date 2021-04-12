@@ -1,8 +1,8 @@
-# Run away
+# Max Profit
 
 ## O que é o nosso projeto?
 
-O nosso projeto é um organizador de tarefas para empresa, que identifica o minimo de funcionários necessários para realizar suas tarefas. Além disso organiza funcionários de forma eficiente.
+O nosso projeto é.
 
 ## Membros:
 
