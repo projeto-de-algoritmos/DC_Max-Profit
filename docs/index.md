@@ -2,7 +2,7 @@
 
 ## O que é o nosso projeto?
 
-O nosso projeto é.
+O nosso projeto processa dados de lucros em certos períodos de tempos, e avalia qual o maior período de lucro.
 
 ## Membros:
 
@@ -21,11 +21,7 @@ O nosso projeto é.
 
 ![Resultado preenchimento manual](images/resultEx.png)
 
-### Preenchimento a partir do .txt, utilizando o exemplo `test1.txt`
-
-![Exemplo utilizando o .txt](images/test2.png)
-
 ## Vídeo da dupla
 
 
-[![Video sobre o projeto](https://img.youtube.com/vi/w0-7ORw6Q8g/0.jpg)](https://youtu.be/w0-7ORw6Q8g)
+[![Video sobre o projeto](https://img.youtube.com/vi/ujgfm3ZVx3Q/0.jpg)](https://youtu.be/ujgfm3ZVx3Q)
